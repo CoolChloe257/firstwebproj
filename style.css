@@ -2,3 +2,44 @@ html, body {
   height: 100%;
   width: 100%;
 }
+
+
+
+#left{
+  height: 500px;
+  width: 400px;
+  border:4px solid black;
+  color:#504e4e;
+  background-color: #bee2f4;
+  margin:20px
+  
+}
+
+ 
+ #middle{
+   height: 500px;
+   width: 400px;
+   border:4px solid black;
+   color:#504e4e;
+   background-color:#f4dc9f;
+   margin:20px
+ } 
+#right{
+  height: 500px;
+  width: 400px;
+  border:4px solid black;
+  color:#504e4e;
+  background-color: #b89cd3;
+  margin:20px
+  
+}
+
+#bottom{
+  border:4px solid black;
+  color: blue
+}
+.BigBox{
+  border:4px solid black;
+  display: flex;
+  justify-content: center;
+}
